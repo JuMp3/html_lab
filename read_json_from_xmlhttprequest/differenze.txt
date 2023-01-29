@@ -1,0 +1,12 @@
+Differenza tra Ajax e Fetch
+
+Ajax è una libreria javascript avanzata.
+È possibile velocizzare il caricamento dei dati sul web.
+Ajax non ti consente di fare tutto con JavaScript, ma ti offre alcune fantastiche funzionalità come l’associazione dei dati.
+Può essere utilizzato solo in un browser.
+
+Dall’altro lato, Fetch caricherà tutti i dati del sito web.
+Quindi, quando fai clic su una parte particolare, non hai bisogno di un altro tempo di caricamento per mostrare la schermata web.
+Invece quando utilizziamo AJAX, carichiamo pagine Web senza aggiornarle o caricarle in memoria in ogni momento;
+ciò significa che quando facciamo click su un collegamento nel nostro browser, la nuova pagina non verrà visualizzata immediatamente sul nostro schermo come faremmo con fetch,
+ma dovremo, invece, attendere che il sito Web si carichi completamente, prima che venga visualizzato sul nostro schermo.
